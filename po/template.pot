@@ -1,0 +1,13 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: \n"
+
+#: index.html:4
+msgid "Sample Application"
+msgstr ""
+
+#: index.html:9
+msgid "This text will be shown in particular language."
+msgstr ""
